@@ -102,3 +102,5 @@ def run():
         command_line()
 
     home_screen()
+    if __name__ == "__main__":
+        run()
